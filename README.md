@@ -26,11 +26,13 @@ Launch the application via the main class (annotated @SpringBootApplication)
 -Open a web browser
 -Go to: http://localhost:8082/swagger-ui/index.html
 -You should see the interactive API documentation
-5-Testing an endpoint (PUT example): a. In Swagger UI :
+5-Testing an endpoint (PUT example):
+🔧 Via Swagger UI:
+-Find your controller section
+-Expand the "PUT" operation
+-Click "Try it out"
 
--Find the section corresponding to your controller
--Click on "PUT" to expand the section
--Click on "Try it out"
+Modify the request body:
 -In the body of the request:
      Replace the example content with your data
      Delete the id (generated automatically)
