@@ -1,9 +1,7 @@
 🏷️ Inventory Management of Products API
 📋 Prerequisites
 -Recommended IDE: IntelliJ IDEA
-
 -Testing tools: Swagger UI or Postman
-
 -Environment: JDK 21 and Maven
 
 🚀 Steps for Launching and Testing the API
